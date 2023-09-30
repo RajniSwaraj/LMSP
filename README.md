@@ -1,2 +1,2 @@
 # LMSP
-CHANGES
+Library Management System
